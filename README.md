@@ -1,2 +1,2 @@
 # struct
-trhi is a repository of c programing
+This is a repository of c programing
